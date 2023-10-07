@@ -1,2 +1,4 @@
-
-/* Your CSS Code here. */
+/* Define the CSS style for your favorite color */
+.favorite-color {
+    color: red; /* Replace YourColorValue with the actual color value (e.g., "blue", "#FFA500", etc.) */
+}
